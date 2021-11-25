@@ -1,0 +1,22 @@
+{
+  "name": "@cdesai1406/hello-world",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdesai1406/hello-world.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "cdesai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdesai1406/hello-world/issues"
+  },
+  "homepage": "https://github.com/cdesai1406/hello-world#readme"
+}
